@@ -1,0 +1,12 @@
+C:\Estudo\BaltaIo\DevOps\MoneyExtension\MoneyExtension\bin\Debug\net6.0\MoneyExtension.deps.json
+C:\Estudo\BaltaIo\DevOps\MoneyExtension\MoneyExtension\bin\Debug\net6.0\MoneyExtension.dll
+C:\Estudo\BaltaIo\DevOps\MoneyExtension\MoneyExtension\bin\Debug\net6.0\MoneyExtension.pdb
+C:\Estudo\BaltaIo\DevOps\MoneyExtension\MoneyExtension\obj\Debug\net6.0\MoneyExtension.csproj.AssemblyReference.cache
+C:\Estudo\BaltaIo\DevOps\MoneyExtension\MoneyExtension\obj\Debug\net6.0\MoneyExtension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudo\BaltaIo\DevOps\MoneyExtension\MoneyExtension\obj\Debug\net6.0\MoneyExtension.AssemblyInfoInputs.cache
+C:\Estudo\BaltaIo\DevOps\MoneyExtension\MoneyExtension\obj\Debug\net6.0\MoneyExtension.AssemblyInfo.cs
+C:\Estudo\BaltaIo\DevOps\MoneyExtension\MoneyExtension\obj\Debug\net6.0\MoneyExtension.csproj.CoreCompileInputs.cache
+C:\Estudo\BaltaIo\DevOps\MoneyExtension\MoneyExtension\obj\Debug\net6.0\MoneyExtension.dll
+C:\Estudo\BaltaIo\DevOps\MoneyExtension\MoneyExtension\obj\Debug\net6.0\refint\MoneyExtension.dll
+C:\Estudo\BaltaIo\DevOps\MoneyExtension\MoneyExtension\obj\Debug\net6.0\MoneyExtension.pdb
+C:\Estudo\BaltaIo\DevOps\MoneyExtension\MoneyExtension\obj\Debug\net6.0\ref\MoneyExtension.dll
